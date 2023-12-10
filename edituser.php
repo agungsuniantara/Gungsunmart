@@ -33,7 +33,7 @@ if (in_array($file_extension, $extension)) {
     } else {
         echo "<script>
             alert ('Edit gagal');
-            location.href='home.php';
+            location.href='edit.php';
             </script>";
     }
 }

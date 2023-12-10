@@ -99,7 +99,7 @@
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<a class="navbar-brand" href="#">
-					<img src="logobaru.png" class="img-responsive">
+					<img src="logo.png" class="img-responsive">
 				</a>
 			</div>
 		</div>

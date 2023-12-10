@@ -31,7 +31,7 @@ if (in_array($file_extension, $extension)) {
     } else {
         echo "<script>
             alert ('Order gagal');
-            location.href='home.php';
+            location.href='neworder.php';
             </script>";
     }
 }
