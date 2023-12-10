@@ -112,7 +112,7 @@ if (isset($_SESSION['nama_depan'])) {
             <div class="container-fluid">
                 <div class="navbar-header">
                     <a class="navbar-brand" style="float:left">
-                        <img src="logobaru.png" class="img-responsive">
+                        <img src="logo.png" class="img-responsive">
                         Welcome
                         <?php
                         $NamaDepan = $_SESSION['nama_depan'];
