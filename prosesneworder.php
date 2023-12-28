@@ -34,4 +34,9 @@ if (in_array($file_extension, $extension)) {
             location.href='neworder.php';
             </script>";
     }
+} else {
+    echo "<script>
+            alert ('gambar tidak sesuai');
+            location.href='neworder.php';
+            </script>";
 }
